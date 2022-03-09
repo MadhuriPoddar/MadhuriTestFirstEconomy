@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747879926783",
+    "project_id": "madhuritestfirsteconomy",
+    "storage_bucket": "madhuritestfirsteconomy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747879926783:android:81cb9c01b75a03d945f5ca",
+        "android_client_info": {
+          "package_name": "com.myself.madhuritestfirsteconomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747879926783-h15vq342iorsibs9c298ftrmdmi4ve1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBddfePoAaYfkvKQhtWDj3Gd0_pI2Iu_So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747879926783-h15vq342iorsibs9c298ftrmdmi4ve1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
